@@ -4,7 +4,7 @@
 
 **Published:** February 23, 2024  
 **Released:** March 22, 2024
-**Deployment**
+**Deployment** TBD
 
 ## Team:
 
@@ -20,7 +20,7 @@
 - **Haocheng Mai:** Software Engineer, Backend Dev
 - **Valerie Wong:** Software Engineer, UI/UX
 
-This documentation serves as a comprehensive guide for ArtrDev, showcasing the talented individuals comprising the Artr Team and their respective roles within the project.
+This section showcases the talented individuals comprising the Artr Team and their respective roles within the company.
 
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
