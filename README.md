@@ -14,6 +14,7 @@
 - **Yishan Luo** - CEO & Founder, Finance and Outreach Specialist
 - **Leilia Lin** - Technical Project Manager and Outreach Coordinator
 - **Elaine Lin** - Director of Product Design, Social Media Marketing Strategist
+- **Julia Ma** - Staff Software Engineer, Product Design Specialist 
 - **Victor Louie** - Business Analyst, Market Research Specialist
 
 ### Software Development
