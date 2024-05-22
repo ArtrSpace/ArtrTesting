@@ -18,10 +18,10 @@
 - **Victor Louie** - Business Analyst, Market Research Specialist
 
 ### Software Development
-- **Peter Lu** - Senior Software Engineer, ML Researcher
-- **Serena Lew** - Senior Software Engineer, Backend Developer
-- **Haocheng Mai** - Senior Software Engineer, Web Developer
-- **Valerie Wong** - Software Engineer, UI/UX Developer
+- **Peter Lu** - Software Engineer III, ML Researcher
+- **Serena Lew** - Software Engineer III, Backend Developer
+- **Haocheng Mai** - Software Engineer III, Web Developer
+- **Valerie Wong** - Software Engineer II, UI/UX Developer
 
 
 This section showcases the talented individuals comprising the Artr Team and their respective roles within the company.
