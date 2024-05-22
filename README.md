@@ -18,9 +18,9 @@
 - **Victor Louie** - Business Analyst, Market Research Specialist
 
 ### Software Development
-- **Peter Lu** - Senior Software Engineer, Full Stack Developer
+- **Peter Lu** - Senior Software Engineer, ML Researcher
 - **Serena Lew** - Senior Software Engineer, Backend Developer
-- **Haocheng Mai** - Senior Software Engineer, Web Development Lead
+- **Haocheng Mai** - Senior Software Engineer, Web Developer
 - **Valerie Wong** - Software Engineer, UI/UX Developer
 
 
