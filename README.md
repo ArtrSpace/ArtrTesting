@@ -11,17 +11,19 @@
 ## Team:
 
 ### Business
-- **Yishan Luo** - CEO & Founder, Finance and Outreach Specialist
-- **Leilia Lin** - Technical Project Manager and Outreach Coordinator
-- **Elaine Lin** - Director of Product Design, Social Media Marketing Strategist
-- **Julia Ma** - Staff Software Engineer, Product Design Specialist 
-- **Victor Louie** - Business Analyst, Market Research Specialist
+- **Yishan Luo** - CEO & Founder
+- **Sabrina Lynch** - Senior Consultant 
+- **Leilia Lin** - Technical Project Manager
+- **Elaine Lin** - Senior Marketing Strategist
+- **Julia Ma** - Staff Software Engineer
+- **Victor Louie** - Business Analyst
 
 ### Software Development
-- **Peter Lu** - Software Engineer III, ML Researcher
-- **Serena Lew** - Software Engineer III, Backend Developer
-- **Haocheng Mai** - Software Engineer III, Web Developer
-- **Valerie Wong** - Software Engineer II, UI/UX Developer
+- **Peter Lu** - Software Engineer III, Fullstack
+- **Serena Lew** - Software Engineer III, Backend 
+- **Haocheng Mai** - Software Engineer III, Backend 
+- **Valerie Wong** - Software Engineer II, Frontend 
+- **Alex Zhang** - Software Engineer II, Backend
 
 
 This section showcases the talented individuals comprising the Artr Team and their respective roles within the company.
