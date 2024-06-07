@@ -1,4 +1,5 @@
-﻿# Artr
+
+# Artr
 
 ## Artr is a 3rd party digital art commissioning site that creates a secure, user-friendly, time-saving platform for artists and clients all over the world.
 
@@ -11,6 +12,7 @@
 ## Team:
 
 ### Business
+
 - **Yishan Luo** - CEO & Founder
 - **Sabrina Lynch** - Senior Consultant 
 - **Leilia Lin** - Technical Project Manager
@@ -24,7 +26,6 @@
 - **Haocheng Mai** - Software Engineer III, Backend 
 - **Valerie Wong** - Software Engineer II, Frontend 
 - **Alex Zhang** - Software Engineer II, Backend
-
 
 This section showcases the talented individuals comprising the Artr Team and their respective roles within the company.
 
