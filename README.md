@@ -1,12 +1,6 @@
-﻿# Artr
+﻿# ArtrTest
 
-## Artr is a 3rd party digital art commissioning site that creates a secure, user-friendly, time-saving platform for artists and clients all over the world.
-
-**Published:** 5/2/24  
-
-**Released:** TBD
-
-**Deployment** TBD
+## ArtrTest is a Test Platform for Artr Developers
 
 ## Team:
 
